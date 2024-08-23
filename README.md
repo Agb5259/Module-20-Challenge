@@ -5,6 +5,7 @@ Overview of the Analysis:
 The purpose of this analysis is to train and evaluate a logistic regression model that can recognize the creditworthiness of borrowers and predict whether we should give a loan to a new borrower (loan risk). We used a dataset of historical lending activity from a peer-to-peer lending service company. Our predictions fall into two classes indicative of loan status: Healthy Loans which are low risk or High-Risk Loans. To summarize, the results of our model provide a reliable framework for making informed lending decisions.
 
 Results:
+
 Accuracy Score for Healthy Loans: 100%
 
 Accuracy Score for High-Risk Loans: 91%
