@@ -6,10 +6,15 @@ The purpose of this analysis is to train and evaluate a logistic regression mode
 
 Results:
 Accuracy Score for Healthy Loans: 100%
+
 Accuracy Score for: High-Risk Loans: 91%
+
 Precision for Healthy Loans: 100%
+
 Precision for High-Risk Loans: 87%
+
 Recall for Health Loans: 100%
+
 Recall for High-Risk Loans: 95%
 
 Summary:
