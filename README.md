@@ -13,7 +13,7 @@ Precision for Healthy Loans: 100%
 
 Precision for High-Risk Loans: 87%
 
-Recall for Health Loans: 100%
+Recall for Healthy Loans: 100%
 
 Recall for High-Risk Loans: 95%
 
