@@ -6,9 +6,7 @@ The purpose of this analysis is to train and evaluate a logistic regression mode
 
 Results:
 
-Accuracy Score for Healthy Loans: 100%
-
-Accuracy Score for High-Risk Loans: 91%
+Accuracy Score: 99%
 
 Precision for Healthy Loans: 100%
 
@@ -20,6 +18,6 @@ Recall for High-Risk Loans: 95%
 
 Summary:
 
-The machine learning model shows strong performance, especially in identifying healthy loans, where it achieved perfect scores in accuracy, precision, and recall. The model also performs well in identifying high-risk loans, with an accuracy score of 91%, a precision score of 87%, and a recall score of 95%.
+The machine learning model shows strong performance, especially in identifying healthy loans, where it achieved perfect scores in precision and recall. The model also performs well in identifying high-risk loans with a precision score of 87% and a recall score of 95%.
 
 This model is highly recommended due to its high performance across all metrics, especially its ability to accurately identify both healthy and high-risk loans, which is critical for minimizing financial risk. The slight trade-off in precision for high-risk loans is offset by the high recall score, suggesting that while some false positives may occur, the model is effective at capturing most high-risk cases.
