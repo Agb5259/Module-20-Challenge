@@ -18,6 +18,6 @@ Recall for High-Risk Loans: 95%
 
 Summary:
 
-The machine learning model shows strong performance, especially in identifying healthy loans, where it achieved perfect scores in precision and recall. The model also performs well in identifying high-risk loans with a precision score of 87% and a recall score of 95%.
+The model demonstrates excellent performance, with an overall accuracy of 99%. It excels in identifying healthy loans, with perfect precision, recall, and F1-scores. For high-risk loans, the model still performs well, with a precision of 0.87, a recall of 0.95, and a F1-score of 0.91. 
 
 This model is highly recommended due to its high performance across all metrics, especially its ability to accurately identify both healthy and high-risk loans, which is critical for minimizing financial risk. The slight trade-off in precision for high-risk loans is offset by the high recall score, suggesting that while some false positives may occur, the model is effective at capturing most high-risk cases.
